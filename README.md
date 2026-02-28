@@ -53,14 +53,7 @@ I have engineered a diverse suite of **30+ custom automation tools** to eliminat
 
 ---
 
-##  Engineering Impact
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muteeb820&show_icons=true&theme=tokyonight&count_private=true" alt="Muteeb's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muteeb820&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
----
 
 ## 📫 Let's Connect
 
